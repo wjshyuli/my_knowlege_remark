@@ -2,16 +2,17 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "俞立的知识库",
+  title: "Knowlege",
   description: "个人技术知识库",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+
     outline: {
         level: [1, 2, 3]
         },
     nav: [
       { text: 'Home', link: '/' },
-      { text: '首页', link: '/' },
+
       { text: 'Python', link: '/python/基础语法' },
       { text: 'FastAPI', link: '/fastapi/快速开始' },
       { text: 'Linux', link: '/linux/常用命令' },
