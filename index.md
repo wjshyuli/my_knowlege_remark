@@ -7,7 +7,7 @@ hero:
   tagline: Python · FastAPI · Linux · Jodoo · 帆软 · 运维
   actions:
     - theme: brand
-      text: 开始阅读
+      text: 开始阅 读
       link: /python/基础语法
 
 features:
