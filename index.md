@@ -17,6 +17,7 @@ features:
 
   - title: MySQL
     details: 数据分析
+    link: /md_mysql/常用命令
 
   - title: 运维工具
     details: Linux、Docker、Nginx

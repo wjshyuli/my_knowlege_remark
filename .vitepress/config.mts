@@ -23,12 +23,12 @@ export default defineConfig({
     ],
 
     sidebar: {
-      "/01_mysql/": [
+      "/md_mysql/": [
         {
           text: "MySQL",
           items: [
-            { text: "基础", link: "/01_mysql/常用命令" },
-            { text: "索引", link: "/01_mysql/不常用命令" }
+            { text: "常用命令", link: "/md_mysql/常用命令" },
+            { text: "不常用命令", link: "/md_mysql/不常用命令" }
           ]
         }
       ],
